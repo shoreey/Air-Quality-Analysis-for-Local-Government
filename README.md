@@ -120,7 +120,7 @@ Build visual tools for easier data exploration and stakeholder engagement.
 
 Clone the repository:
 
-git clone https://github.com/your-username/bradford-air-quality-analysis.git
+git clone https://github.com/shoreey/bradford-air-quality-analysis.git
 cd bradford-air-quality-analysis
 
 Install dependencies:
